@@ -37,8 +37,10 @@
 
 ###
 
-<br>
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=atifsimsek.atifsimsek&"  />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=atifsimsek.atifsimsek&left_text=Profile Views"  />
 </div>
+
+###
